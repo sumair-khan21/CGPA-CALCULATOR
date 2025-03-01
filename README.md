@@ -10,7 +10,7 @@ The "Personal CGPA per Semester Calculator" is a simple Python tool that helps s
 - Simple design that any student can use
 
 ## Technologies Used
-- Python
+- Javascript
 
 ## Outcome
 This calculator makes the boring job of figuring out your grades much easier. It helps students see how they're doing in school and set goals for improvement. By tracking your grades each semester, you can make better choices about your studies.
